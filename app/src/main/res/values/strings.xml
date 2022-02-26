@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">方程助手</string>
+    <string name="yiyuanyici">解一元一次方程</string>
+    <string name="yiyuanerci">解一元二次方程</string>
+    <string name="eryuanyici">解二元一次方程</string>
+    <string name="jieshao1">解一元二次方程：ax^2 +bx +c =0</string>
+    <string name="jieshao2">在下面输入方程中参数a,b,c的值来进行计算</string>
+    <string name="jieshao3">解一元一次方程：ax +b =0</string>
+    <string name="jieshao4">在下面输入方程中参数a,b的值来进行计算</string>
+    <string name="jieshao5">解二元一次方程组： \n ax +by =c </string>
+    <string name="jieshao6">在下面输入方程中参数a,b的值来进行计算</string>
+    <string name="zhuyi">请输入全部参数！</string>
+</resources>
